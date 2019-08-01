@@ -1,0 +1,13 @@
+Enter Hour      Enter Minute    Exit Hour       Exit Minute     Minutes Passed    Rate
+0               0               0               30              30                3.00
+5               45              7               0               75                10.00
+6               32              9               54              202               30.00
+9               15              12              15              180               30.00
+9               32              14              35              303               45.00
+8               0               10              30              150               15.00
+8               45              55              55              2830              110.00
+99              99              99              99              0                 5.00
+9               10              23              30              860               ERROR
+17              0               4               0               660               115.00
+This program was coded by Hakeem Wilson
+Press any key to continue . . .
